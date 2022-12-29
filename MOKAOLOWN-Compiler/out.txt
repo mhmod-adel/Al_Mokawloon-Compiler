@@ -1,0 +1,7 @@
+Add New Table With Name students ((id int, name varchar(225), phone varchar(225), age int, Grade int));
+
+Add New STUDENT To students (id, name, phone, age, Grade) With VALUES (1, "Taha", "0194893391", 9, 1);
+Add New STUDENT To students (id, name, phone, age, Grade) With VALUES (2, "Jony", "0185632565", 25, 7);
+Add New STUDENT To students (id, name, phone, age, Grade) With VALUES (3, "Jesica", "0194782315", 23, 4);
+Add New STUDENT To students (id, name, phone, age, Grade) With VALUES (4, "Dani", "01747454315", 20, 6);
+
